@@ -1,0 +1,8 @@
+C:\Users\krish04\source\repos\team\team\bin\team.dll.config
+C:\Users\krish04\source\repos\team\team\bin\team.dll
+C:\Users\krish04\source\repos\team\team\bin\team.pdb
+C:\Users\krish04\source\repos\team\team\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\krish04\source\repos\team\team\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\krish04\source\repos\team\team\obj\Release\team.csproj.CoreCompileInputs.cache
+C:\Users\krish04\source\repos\team\team\obj\Release\team.dll
+C:\Users\krish04\source\repos\team\team\obj\Release\team.pdb

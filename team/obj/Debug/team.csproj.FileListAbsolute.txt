@@ -1,0 +1,9 @@
+c:\users\krish04\source\repos\team\team\bin\team.dll.config
+c:\users\krish04\source\repos\team\team\bin\team.dll
+c:\users\krish04\source\repos\team\team\bin\team.pdb
+c:\users\krish04\source\repos\team\team\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\krish04\source\repos\team\team\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\krish04\source\repos\team\team\obj\Debug\team.csprojResolveAssemblyReference.cache
+c:\users\krish04\source\repos\team\team\obj\Debug\team.csproj.CoreCompileInputs.cache
+c:\users\krish04\source\repos\team\team\obj\Debug\team.dll
+c:\users\krish04\source\repos\team\team\obj\Debug\team.pdb

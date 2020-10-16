@@ -1,7 +1,9 @@
 # Team
 
 This project is been made in visual studio  2017 
-if you want to run the project then in the login page username is 234
+
+This is a project where there are two teams team a and b for match and admin can change the player or delete the player if we want to.
+If you want to run the project then in the login page username is 234
 and password is 123456
 
 Just extract the file and open in visual studio.
